@@ -1,0 +1,17 @@
+C:\OOP\LAB6\LAB6\LAB6\bin\Debug\net6.0-windows\LAB6.exe
+C:\OOP\LAB6\LAB6\LAB6\bin\Debug\net6.0-windows\LAB6.deps.json
+C:\OOP\LAB6\LAB6\LAB6\bin\Debug\net6.0-windows\LAB6.runtimeconfig.json
+C:\OOP\LAB6\LAB6\LAB6\bin\Debug\net6.0-windows\LAB6.dll
+C:\OOP\LAB6\LAB6\LAB6\bin\Debug\net6.0-windows\LAB6.pdb
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\LAB6.csproj.AssemblyReference.cache
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\LAB6.Form1.resources
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\LAB6.csproj.GenerateResource.cache
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\LAB6.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\LAB6.AssemblyInfoInputs.cache
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\LAB6.AssemblyInfo.cs
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\LAB6.csproj.CoreCompileInputs.cache
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\LAB6.dll
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\refint\LAB6.dll
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\LAB6.pdb
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\LAB6.genruntimeconfig.cache
+C:\OOP\LAB6\LAB6\LAB6\obj\Debug\net6.0-windows\ref\LAB6.dll
